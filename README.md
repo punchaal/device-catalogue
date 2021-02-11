@@ -8,6 +8,8 @@ The API has two routes `/watches` which returns a list of watches and `/iphones`
 Create two routes locally with your perferred client-side routing library: `/watches` and `/iphones`. The `/watches` routes should *ONLY* display a basic unordered list of watches and the `/iphones` route should *ONLY* display an unordered list of phones.
 Each routes represents a page in the application, each page should have a heading indicating the type of devices listed on the page and the unordered list of devices.
 
+The application should also include an index page which list all assessible pages.
+
 ### Example API response from `/watches`
 
 ```
