@@ -20,3 +20,6 @@ Create two routes locally with your perferred client-side routing library: `/wat
 ```
 
 `npm run dev` will start the local API server on port 8080 along with a client side user interface on port 8080.
+
+
+Write a test for at least one of the components used to display a device list with your preferred testing library. 
