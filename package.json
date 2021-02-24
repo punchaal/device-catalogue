@@ -1,5 +1,5 @@
 {
-  "name": "Device Catalogue",
+  "name": "device-catalogue-shell",
   "main": "index.js",
   "scripts": {
     "dev:ui": "webpack serve",
