@@ -48,7 +48,7 @@ The mock API replies with the following structure:
 
 All device cards should look as close as possible to the following device card:
 
-![device card](https://github.com/akeemattelus/apple-shopper/blob/master/public/images/device-card.png)
+![device card](https://github.com/akeemattelus/device-catalogue/blob/master/public/images/device-card.png)
 
 ## Useful TDS components
 
