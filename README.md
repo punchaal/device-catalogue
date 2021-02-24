@@ -48,6 +48,12 @@ The mock API replies with the following structure:
 
 All device cards should look as close as possible to the following device card:
 
+Note: all device cards should simply showcase the name of the device, the brand and price with the following copy:
+
+> TELUS Easy Payment and Bring-It-Back applied. Read legal footnote Taxes due upfront.
+
+> Retail price: $1130
+
 ![device card](https://github.com/akeemattelus/device-catalogue/blob/master/public/images/device-card.png)
 
 
