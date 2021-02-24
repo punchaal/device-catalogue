@@ -57,4 +57,5 @@ All device cards should look as close as possible to the following device card:
 - [TDS Image](https://tds.telus.com/components/index.html#/Content?id=image)
 - [TDS PriceLockup](https://tds.telus.com/components/index.html#/Typography?id=pricelockup)
 - [TDS Text](https://tds.telus.com/components/index.html#/Typography?id=text)
+- [TDS Flex Grid](https://tds.telus.com/components/index.html#/Layout?id=flexgrid)
 
