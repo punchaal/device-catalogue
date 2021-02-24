@@ -50,6 +50,13 @@ All device cards should look as close as possible to the following device card:
 
 ![device card](https://github.com/akeemattelus/device-catalogue/blob/master/public/images/device-card.png)
 
+
+## Reference Device Grid 
+
+The device grid should look as close as possible to the following device grid but exact spacing isn't required:
+
+![device card](https://github.com/akeemattelus/device-catalogue/blob/master/public/images/device-grid.png)
+
 ## Useful TDS components
 
 - [TDS Heading](https://tds.telus.com/components/index.html#/Typography?id=heading)
