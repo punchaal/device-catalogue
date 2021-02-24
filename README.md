@@ -4,7 +4,7 @@ A customer would like to browse all the Apple devices avaiable for purchase. Cre
 The API has two routes `/watches` which returns a list of watches and `/iphones` which returns a list of iPhones.
 
 Create two routes locally with your perferred client-side routing library: `/watches` and `/iphones`. The `/watches` routes should **ONLY** display a grid of watch device cards (a referrence card design is displayed below) and the `/iphones` route should **ONLY** display a grid of iphone device cards.
-Each routes represents a page in the application, each page should have a heading indicating the type of devices listed on the page and grid showing all the devices in this category.
+Each routes represents a page in the application, each page should have a heading indicating the type of devices listed on the page and a grid showing all the devices in that category.
 
 ## Application Requirements
 
