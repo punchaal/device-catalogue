@@ -26,3 +26,9 @@ The application should also include an index page which lists all assessible pag
 
 
 Write a test for at least one of the components used to display a device list with your preferred testing library. 
+
+
+## Reference Device Card
+
+![device card](https://github.com/akeemattelus/apple-shopper/blob/master/public/images/device-card.png)
+
