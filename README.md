@@ -11,7 +11,17 @@ Each routes represents a page in the application, each page should have a headin
 - [x] An index page with a list of all pages (i.e. A watch page and phone page).
 - [x] Unit tests for **at least** one component.
 - [x] [TDS](https://tds.telus.com/components/index.html) usage (A list of useful components can be found below).
+- [x] A grid of device cards.
 
+Apple Watch and iPhone image are available in the public directory
+
+```
+public/
+├─ images/
+│  ├─ iphone.jpg
+│  ├─ watch.jpg
+
+```
 
 ## Anotomy of an API response
 

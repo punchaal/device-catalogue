@@ -1,5 +1,5 @@
 {
-  "name": "Shopper",
+  "name": "Device Catalogue",
   "main": "index.js",
   "scripts": {
     "dev:ui": "webpack serve",
