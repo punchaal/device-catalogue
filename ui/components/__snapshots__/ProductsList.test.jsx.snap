@@ -1,0 +1,260 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductList Props component renders a ProducltsList by default 1`] = `
+<div>
+  <FlexGrid
+    gutter={true}
+    limitWidth={true}
+    outsideGutter={true}
+  >
+    <Row>
+      <Col
+        key="0"
+      >
+        <Card
+          fullHeight={false}
+          spacing="default"
+          variant="default"
+        >
+          <Row
+            horizontalAlign="center"
+          >
+            <Image
+              alt="Image of iPhone 12 Pro"
+              height={250}
+              src="public/images/iphone.jpg"
+              width={200}
+            />
+          </Row>
+          <Box
+            between={1}
+            inline={false}
+            tag="div"
+            vertical={3}
+          >
+            <Heading
+              invert={false}
+              level="h3"
+              tag="h2"
+            >
+               
+              Apple
+            </Heading>
+            <Heading
+              invert={false}
+              level="h2"
+              tag="h3"
+            >
+               
+              iPhone 12 Pro
+            </Heading>
+          </Box>
+          <Box
+            inline={false}
+            tag="div"
+            vertical={3}
+          >
+            <PriceLockup
+              price="1399"
+              signDirection="left"
+              size="medium"
+              strikethrough={false}
+            />
+          </Box>
+          <Box
+            between={3}
+            inline={false}
+            tag="div"
+          >
+            <HairlineDivider
+              gradient={false}
+              vertical={false}
+            />
+            <Paragraph
+              align="left"
+              bold={false}
+              invert={false}
+              size="medium"
+            >
+              TELUS Easy Payment and Bring-It-Back applied. Read legal footnote Taxes due upfront.
+               
+            </Paragraph>
+            <Paragraph
+              align="left"
+              bold={false}
+              invert={false}
+              size="medium"
+            >
+              Retail price: $1130
+            </Paragraph>
+          </Box>
+        </Card>
+      </Col>
+      <Col
+        key="1"
+      >
+        <Card
+          fullHeight={false}
+          spacing="default"
+          variant="default"
+        >
+          <Row
+            horizontalAlign="center"
+          >
+            <Image
+              alt="Image of iPhone 12"
+              height={250}
+              src="public/images/iphone.jpg"
+              width={200}
+            />
+          </Row>
+          <Box
+            between={1}
+            inline={false}
+            tag="div"
+            vertical={3}
+          >
+            <Heading
+              invert={false}
+              level="h3"
+              tag="h2"
+            >
+               
+              Apple
+            </Heading>
+            <Heading
+              invert={false}
+              level="h2"
+              tag="h3"
+            >
+               
+              iPhone 12
+            </Heading>
+          </Box>
+          <Box
+            inline={false}
+            tag="div"
+            vertical={3}
+          >
+            <PriceLockup
+              price="979"
+              signDirection="left"
+              size="medium"
+              strikethrough={false}
+            />
+          </Box>
+          <Box
+            between={3}
+            inline={false}
+            tag="div"
+          >
+            <HairlineDivider
+              gradient={false}
+              vertical={false}
+            />
+            <Paragraph
+              align="left"
+              bold={false}
+              invert={false}
+              size="medium"
+            >
+              TELUS Easy Payment and Bring-It-Back applied. Read legal footnote Taxes due upfront.
+               
+            </Paragraph>
+            <Paragraph
+              align="left"
+              bold={false}
+              invert={false}
+              size="medium"
+            >
+              Retail price: $1130
+            </Paragraph>
+          </Box>
+        </Card>
+      </Col>
+      <Col
+        key="2"
+      >
+        <Card
+          fullHeight={false}
+          spacing="default"
+          variant="default"
+        >
+          <Row
+            horizontalAlign="center"
+          >
+            <Image
+              alt="Image of iPhone SE"
+              height={250}
+              src="public/images/iphone.jpg"
+              width={200}
+            />
+          </Row>
+          <Box
+            between={1}
+            inline={false}
+            tag="div"
+            vertical={3}
+          >
+            <Heading
+              invert={false}
+              level="h3"
+              tag="h2"
+            >
+               
+              Apple
+            </Heading>
+            <Heading
+              invert={false}
+              level="h2"
+              tag="h3"
+            >
+               
+              iPhone SE
+            </Heading>
+          </Box>
+          <Box
+            inline={false}
+            tag="div"
+            vertical={3}
+          >
+            <PriceLockup
+              price="599"
+              signDirection="left"
+              size="medium"
+              strikethrough={false}
+            />
+          </Box>
+          <Box
+            between={3}
+            inline={false}
+            tag="div"
+          >
+            <HairlineDivider
+              gradient={false}
+              vertical={false}
+            />
+            <Paragraph
+              align="left"
+              bold={false}
+              invert={false}
+              size="medium"
+            >
+              TELUS Easy Payment and Bring-It-Back applied. Read legal footnote Taxes due upfront.
+               
+            </Paragraph>
+            <Paragraph
+              align="left"
+              bold={false}
+              invert={false}
+              size="medium"
+            >
+              Retail price: $1130
+            </Paragraph>
+          </Box>
+        </Card>
+      </Col>
+    </Row>
+  </FlexGrid>
+</div>
+`;
